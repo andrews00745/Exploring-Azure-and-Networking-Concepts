@@ -41,33 +41,20 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <h2>High-Level Steps</h2>
 
 - Step 1
+
+![image](https://github.com/andrews00745/Exploring-Azure-and-Networking-Concepts/assets/166648238/6085e069-abbb-4cdc-940e-37b32f854782)
+
 - Step 2
+
+![image](https://github.com/andrews00745/Exploring-Azure-and-Networking-Concepts/assets/166648238/54bbfd63-de5a-4b4f-af21-6bf376bfa384)
+
 - Step 3
+
+![image](https://github.com/andrews00745/Exploring-Azure-and-Networking-Concepts/assets/166648238/63c8cb07-3b8f-4800-a106-402c0a922e08)
+
 - Step 4
 
-<h2>Actions and Observations</h2>
+![image](https://github.com/andrews00745/Exploring-Azure-and-Networking-Concepts/assets/166648238/b76df987-c1a9-4dde-9db4-aadab28b1f5d)
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
 
